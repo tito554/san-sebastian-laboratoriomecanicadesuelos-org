@@ -1,0 +1,62 @@
+# San Sebastian
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://san-sebastian.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Amplificacion Sismica](https://san-sebastian.laboratoriomecanicadesuelos.org/amplificacion-sismica/)
+- [Anclajes](https://san-sebastian.laboratoriomecanicadesuelos.org/anclajes/)
+- [Asentamiento Diferencial](https://san-sebastian.laboratoriomecanicadesuelos.org/asentamiento-diferencial/)
+- [Asentamientos](https://san-sebastian.laboratoriomecanicadesuelos.org/asentamientos/)
+- [Calicatas Exploratorias](https://san-sebastian.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Capacidad De Carga](https://san-sebastian.laboratoriomecanicadesuelos.org/capacidad-de-carga/)
+- [Cbr Vial](https://san-sebastian.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://san-sebastian.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Rellenos](https://san-sebastian.laboratoriomecanicadesuelos.org/cimentaciones-rellenos/)
+- [Cimentaciones Superficiales](https://san-sebastian.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://san-sebastian.laboratoriomecanicadesuelos.org/clasificacion-suelos/)
+- [Columnas Grava](https://san-sebastian.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Compactacion Dinamica](https://san-sebastian.laboratoriomecanicadesuelos.org/compactacion-dinamica/)
+- [Compresion Simple](https://san-sebastian.laboratoriomecanicadesuelos.org/compresion-simple/)
+- [Consolidacion](https://san-sebastian.laboratoriomecanicadesuelos.org/consolidacion/)
+- [Corte Directo](https://san-sebastian.laboratoriomecanicadesuelos.org/corte-directo/)
+- [Deep Soil Mixing](https://san-sebastian.laboratoriomecanicadesuelos.org/deep-soil-mixing/)
+- [Dilatometro](https://san-sebastian.laboratoriomecanicadesuelos.org/dilatometro/)
+- [Drenaje Geotecnico](https://san-sebastian.laboratoriomecanicadesuelos.org/drenaje-geotecnico/)
+- [Drenaje Vial](https://san-sebastian.laboratoriomecanicadesuelos.org/drenaje-vial/)
+- [Drenes Verticales](https://san-sebastian.laboratoriomecanicadesuelos.org/drenes-verticales/)
+- [Ensayo Cpt](https://san-sebastian.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Spt](https://san-sebastian.laboratoriomecanicadesuelos.org/ensayo-spt/)
+- [Ensayo Triaxial](https://san-sebastian.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Ensayos In Situ](https://san-sebastian.laboratoriomecanicadesuelos.org/ensayos-in-situ/)
+- [Erosion Suelos](https://san-sebastian.laboratoriomecanicadesuelos.org/erosion-suelos/)
+- [Estabilidad Taludes](https://san-sebastian.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Estabilizacion Taludes](https://san-sebastian.laboratoriomecanicadesuelos.org/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://san-sebastian.laboratoriomecanicadesuelos.org/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://san-sebastian.laboratoriomecanicadesuelos.org/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://san-sebastian.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://san-sebastian.laboratoriomecanicadesuelos.org/excavaciones-subterraneas/)
+- [Exploracion](https://san-sebastian.laboratoriomecanicadesuelos.org/exploracion/)
+- [Factor Seguridad](https://san-sebastian.laboratoriomecanicadesuelos.org/factor-seguridad/)
+- [Falla Taludes](https://san-sebastian.laboratoriomecanicadesuelos.org/falla-taludes/)
+- [Geofisica](https://san-sebastian.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geomallas](https://san-sebastian.laboratoriomecanicadesuelos.org/geomallas/)
+- [Geomembranas](https://san-sebastian.laboratoriomecanicadesuelos.org/geomembranas/)
+- [Georradar Gpr](https://san-sebastian.laboratoriomecanicadesuelos.org/georradar-gpr/)
+- [Geotecnia Vial](https://san-sebastian.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://san-sebastian.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://san-sebastian.laboratoriomecanicadesuelos.org/grouting/)
+- [Infiltracion](https://san-sebastian.laboratoriomecanicadesuelos.org/infiltracion/)
+- [Instrumentacion Geotecnica](https://san-sebastian.laboratoriomecanicadesuelos.org/instrumentacion-geotecnica/)
+- [Jet Grouting](https://san-sebastian.laboratoriomecanicadesuelos.org/jet-grouting/)
+- [Laboratorio](https://san-sebastian.laboratoriomecanicadesuelos.org/laboratorio/)
+- [Licuefaccion](https://san-sebastian.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://san-sebastian.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://san-sebastian.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+
+## Contact
+- Website: https://san-sebastian.laboratoriomecanicadesuelos.org/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
